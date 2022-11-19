@@ -1,1 +1,3 @@
-# java-release
+# maven-project
+
+Simple Maven Project
